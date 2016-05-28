@@ -1,0 +1,47 @@
+#header-wrap{
+	.headerBackground{
+		width:100%;
+		position:absolute;
+		top:0;
+		background: rgba(black, 0.5);
+	}
+	.backgroundImg {
+		height:500px;
+		img {
+		width:100%;
+		height:100%;
+		object-fit: cover;
+		object-position: center;
+		}
+	}
+	.text {
+		text-align:center;
+		position:absolute;
+		top:300px;
+			p{
+		color:white;
+		font-size:30px;
+				span{
+				color:gold;
+				}
+		}
+			h6{
+			color:white;
+			}
+			button{
+			color:white;
+			background-color:transparent;
+			border:1px solid white;
+			}
+	}
+
+	#navbaR ul li a{
+		font-size:10px;
+		color:white;
+		padding-top:30px;
+	}
+	.eudora{
+		color:gold;
+		font-size:28px;
+	}
+}

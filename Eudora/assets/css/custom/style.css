@@ -1,0 +1,36 @@
+#header-wrap .headerBackground {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  background: rgba(0, 0, 0, 0.5); }
+#header-wrap .backgroundImg {
+  height: 500px; }
+  #header-wrap .backgroundImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center; }
+#header-wrap .text {
+  text-align: center;
+  position: absolute;
+  top: 300px; }
+  #header-wrap .text p {
+    color: white;
+    font-size: 30px; }
+    #header-wrap .text p span {
+      color: gold; }
+  #header-wrap .text h6 {
+    color: white; }
+  #header-wrap .text button {
+    color: white;
+    background-color: transparent;
+    border: 1px solid white; }
+#header-wrap #navbaR ul li a {
+  font-size: 10px;
+  color: white;
+  padding-top: 30px; }
+#header-wrap .eudora {
+  color: gold;
+  font-size: 28px; }
+
+/*# sourceMappingURL=style.css.map */
